@@ -1,3 +1,4 @@
+// To print table of n.
 #include <stdio.h>
 int main() {
   int n, i, no1;
