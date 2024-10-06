@@ -82,3 +82,4 @@
 78.	Write a C program to print Pascal triangle upto n rows.
 79.	Star pattern programs – Write a C program to print the given star patterns.
 80.	Number pattern programs – Write a C program to print the given number patterns.
+that's it
