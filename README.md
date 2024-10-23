@@ -20,9 +20,9 @@
   •	0,1,4,9,25,36,49,64,81………………………………………..n
   •	1,2,5,10, 25, 37,50,64,82………………………………………n
 18.	Write a program to calculate nm  problem.
-19.	Write a program to calculate factorial of any given number.
+19.	~~Write a program to calculate factorial of any given number.~~ Same as 5
 20.	Write a program to print all even and odd numbers starting from 0 to 100.
-21.	Write a program to calculate sum of even and odd numbers starting from 0-100.
+21.~~Write a program to calculate sum of even and odd numbers starting from 0-100.~~ Same as 7
 22.	Write a program to print factorial of number starting from 0 to n. 
 23.	Write a program to print and also calculate sum of all prime number staring from 0 to 100.
 24.	Write a program to count number of digits in a given integer.
