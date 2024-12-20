@@ -8,10 +8,10 @@ int main() {
             digits+= 1;
             digitcounter /= 10;
         }
-    while( num != 0){
+    while(num != 0){
         int digit = num%10;
         int product = 1;
-            for (int i = 0; i <digits; i++) product *= digit;
+        for (int i = 0; i <digits; i++) product *= digit;
         final += product;
         num /= 10;
     }
